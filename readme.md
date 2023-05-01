@@ -2,7 +2,11 @@
 ### Researcher
 
 #### Summary
-I am a passionate software developer with 3 years of experience in building web and mobile applications using modern technologies.
+I am an ambitious information technology graduate with a passion for developing
+innovative solutions to solve real-world problems. My career goal is to utilize my
+academic knowledge and skills to the fullest of my capacity and industry-related
+experience in designing information systems for various clients and contribute
+towards my organisation's success.
 
 
 #### Education
