@@ -10,6 +10,8 @@ towards my organisation's success.
 
 #### Contact Information
 - Stack overflow: [stackoverflow.com/users/12017769/dulangi-kanchana](https://stackoverflow.com/users/12017769/dulangi-kanchana)
+- Google scholar: [scholar.google.com/citations?user=PzfCGkkAAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?user=PzfCGkkAAAAJ&hl=en&oi=ao)
+- ResearchGate: [researchgate.net/profile/J-Dulangi-Kanchana](https://www.researchgate.net/profile/J-Dulangi-Kanchana)
 - LinkedIn: [linkedin.com/in/dulangi-kanchana-176b2a112/](https://www.linkedin.com/in/dulangi-kanchana-176b2a112/)
 - Medium: [kanchanardj.medium.com/](https://kanchanardj.medium.com/)
 - Youtube: [youtube.com/@dulangikanchana8237](https://www.youtube.com/@dulangikanchana8237)
@@ -17,5 +19,13 @@ towards my organisation's success.
 
 #### Education
 ##### BSc (Honours) degree in Information Technology and Management
-###### University of Moratuwa | Jan 2016 - May 2020
-- Graduated with Second Upper Class division | 3.48 out of 4.2
+##### University of Moratuwa | Jan 2016 - May 2020
+###### - Graduated with Second Upper Class division | 3.48 out of 4.2
+
+##### MSc degree in Computer Science and Engineering
+##### University of Moratuwa | April 2021 - May 2023
+###### - Finished last progress review in March
+
+##### Master of Business Administration
+##### University of Brittany | February 2022 - July 2023
+###### - Research ongoing
