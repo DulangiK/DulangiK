@@ -1,5 +1,5 @@
 # Dulangi Kanchana
-### Researcher
+### Researcher | Machine Learning Enthusiastic | Teacher | Student
 
 #### Summary
 I am an ambitious information technology graduate with a passion for developing
