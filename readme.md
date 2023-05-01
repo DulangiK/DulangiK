@@ -19,7 +19,7 @@ towards my organisation's success.
 
 #### Education
 
-BSc (Honours) degree in Information Technology and Management
+<small> BSc (Honours) degree in Information Technology and Management </small>
 University of Moratuwa | Jan 2016 - May 2020
 - Graduated with Second Upper Class division | 3.48 GPA out of 4.2
 
