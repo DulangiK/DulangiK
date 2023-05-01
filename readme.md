@@ -18,14 +18,15 @@ towards my organisation's success.
 
 
 #### Education
-##### BSc (Honours) degree in Information Technology and Management
-##### University of Moratuwa | Jan 2016 - May 2020
-###### - Graduated with Second Upper Class division | 3.48 out of 4.2
 
-##### MSc degree in Computer Science and Engineering
-##### University of Moratuwa | April 2021 - May 2023
-###### - Finished last progress review in March
+BSc (Honours) degree in Information Technology and Management
+University of Moratuwa | Jan 2016 - May 2020
+- Graduated with Second Upper Class division | 3.48 GPA out of 4.2
 
-##### Master of Business Administration
-##### University of Brittany | February 2022 - July 2023
-###### - Research ongoing
+MSc degree in Computer Science and Engineering
+University of Moratuwa | April 2021 - May 2023
+- Finished last progress review in March
+
+Master of Business Administration
+University of Brittany | February 2022 - July 2023
+- Research ongoing
