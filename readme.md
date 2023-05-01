@@ -8,6 +8,12 @@ academic knowledge and skills to the fullest of my capacity and industry-related
 experience in designing information systems for various clients and contribute
 towards my organisation's success.
 
+#### Contact Information
+- Stack overflow: [stackoverflow.com/users/12017769/dulangi-kanchana](https://stackoverflow.com/users/12017769/dulangi-kanchana)
+- LinkedIn: [linkedin.com/in/dulangi-kanchana-176b2a112/](https://www.linkedin.com/in/dulangi-kanchana-176b2a112/)
+- Medium: [kanchanardj.medium.com/](https://kanchanardj.medium.com/)
+- Youtube: [youtube.com/@dulangikanchana8237](https://www.youtube.com/@dulangikanchana8237)
+
 
 #### Education
 ##### BSc (Honours) degree in Information Technology and Management
