@@ -23,4 +23,9 @@ towards my organisation's success.
 - MSc degree in Computer Science and Engineering | University of Moratuwa | April 2021 - May 2023
 - Master of Business Administration degree | University of Brittany | February 2022 - July 2023
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DulangiK&theme=swift&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DulangiK&theme=swift&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DulangiK&theme=swift&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
 
