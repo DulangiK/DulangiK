@@ -17,11 +17,6 @@ towards my organisation's success.
 - Youtube: [youtube.com/@dulangikanchana8237](https://www.youtube.com/@dulangikanchana8237)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DulangiK&theme=swift&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DulangiK&theme=swift&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DulangiK&theme=swift&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
 
 #### Education
 
