@@ -21,6 +21,6 @@ towards my organisation's success.
 #### Education
 
 - BSc (Honours) degree in Information Technology and Management | University of Moratuwa | Jan 2016 - May 2020
-- MSc degree in Computer Science and Engineering | University of Moratuwa | April 2021 - May 2023
+
 
 
